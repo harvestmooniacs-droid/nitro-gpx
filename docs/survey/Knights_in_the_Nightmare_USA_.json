@@ -1,0 +1,152 @@
+{
+ "rom": "Knights in the Nightmare (USA).nds",
+ "title": "KNIGHTSNIGHT",
+ "code": "CKNE",
+ "n_files": 31,
+ "ext_stats": {
+  ".bin": {
+   "xf84f2de9": 10,
+   "xf04f2de9": 8,
+   "x30402de9": 2,
+   "xf0432de9": 2,
+   "x00402de9": 1,
+   "x70402de9": 1,
+   "x10402de9": 1,
+   "xf0402de9": 1,
+   "x08402de9": 1,
+   "x00000000": 1
+  },
+  ".sdat": {
+   "SDAT": 2
+  },
+  ".sfs": {
+   "x00000000": 1
+  }
+ },
+ "files": {
+  "overlay9/overlay_0000.bin": {
+   "magic": "x00402de9",
+   "size": 33984
+  },
+  "overlay9/overlay_0001.bin": {
+   "magic": "x30402de9",
+   "size": 64608
+  },
+  "overlay9/overlay_0002.bin": {
+   "magic": "xf0432de9",
+   "size": 33728
+  },
+  "overlay9/overlay_0003.bin": {
+   "magic": "x70402de9",
+   "size": 48608
+  },
+  "overlay9/overlay_0004.bin": {
+   "magic": "x10402de9",
+   "size": 16192
+  },
+  "overlay9/overlay_0005.bin": {
+   "magic": "xf0402de9",
+   "size": 23168
+  },
+  "overlay9/overlay_0006.bin": {
+   "magic": "x08402de9",
+   "size": 50176
+  },
+  "overlay9/overlay_0007.bin": {
+   "magic": "x30402de9",
+   "size": 22880
+  },
+  "overlay9/overlay_0008.bin": {
+   "magic": "xf84f2de9",
+   "size": 45376
+  },
+  "overlay9/overlay_0009.bin": {
+   "magic": "x00000000",
+   "size": 32
+  },
+  "overlay9/overlay_0010.bin": {
+   "magic": "xf84f2de9",
+   "size": 12352
+  },
+  "overlay9/overlay_0011.bin": {
+   "magic": "xf04f2de9",
+   "size": 13536
+  },
+  "overlay9/overlay_0012.bin": {
+   "magic": "xf84f2de9",
+   "size": 21408
+  },
+  "overlay9/overlay_0013.bin": {
+   "magic": "xf84f2de9",
+   "size": 26176
+  },
+  "overlay9/overlay_0014.bin": {
+   "magic": "xf04f2de9",
+   "size": 14784
+  },
+  "overlay9/overlay_0015.bin": {
+   "magic": "xf04f2de9",
+   "size": 51584
+  },
+  "overlay9/overlay_0016.bin": {
+   "magic": "xf84f2de9",
+   "size": 24576
+  },
+  "overlay9/overlay_0017.bin": {
+   "magic": "xf04f2de9",
+   "size": 20608
+  },
+  "overlay9/overlay_0018.bin": {
+   "magic": "xf04f2de9",
+   "size": 15808
+  },
+  "overlay9/overlay_0019.bin": {
+   "magic": "xf04f2de9",
+   "size": 17184
+  },
+  "overlay9/overlay_0020.bin": {
+   "magic": "xf84f2de9",
+   "size": 16768
+  },
+  "overlay9/overlay_0021.bin": {
+   "magic": "xf04f2de9",
+   "size": 40832
+  },
+  "overlay9/overlay_0022.bin": {
+   "magic": "xf84f2de9",
+   "size": 35712
+  },
+  "overlay9/overlay_0023.bin": {
+   "magic": "xf84f2de9",
+   "size": 23904
+  },
+  "overlay9/overlay_0024.bin": {
+   "magic": "xf04f2de9",
+   "size": 23552
+  },
+  "overlay9/overlay_0025.bin": {
+   "magic": "xf0432de9",
+   "size": 48128
+  },
+  "overlay9/overlay_0026.bin": {
+   "magic": "xf84f2de9",
+   "size": 29472
+  },
+  "overlay9/overlay_0027.bin": {
+   "magic": "xf84f2de9",
+   "size": 28032
+  },
+  "DATA.SFS": {
+   "magic": "x00000000",
+   "size": 86656000
+  },
+  "project_wow.sdat": {
+   "magic": "SDAT",
+   "size": 10508288
+  },
+  "sound_data.sdat": {
+   "magic": "SDAT",
+   "size": 18996224
+  }
+ }
+}

@@ -1,0 +1,134 @@
+{
+ "rom": "Lufia - Curse of the Sinistrals (USA).nds",
+ "title": "ESTPOLIS DS",
+ "code": "BSDE",
+ "n_files": 26,
+ "ext_stats": {
+  ".bin": {
+   "x6959d2e9": 1,
+   "x70250100": 1,
+   "x05500990": 1,
+   "x70b5051c": 1,
+   "xf9122900": 1,
+   "xf0b59fb0": 1,
+   "xf8b5c6b0": 1,
+   "x70b58ab0": 1,
+   "x1d701df0": 1,
+   "xf0b59f11": 1,
+   "xa910f047": 1,
+   "xf8402de9": 1
+  },
+  ".dat": {
+   "$FAB": 1
+  },
+  ".sdat": {
+   "SDAT": 2
+  }
+ },
+ "files": {
+  "overlay9/overlay_0000.bin": {
+   "magic": "x6959d2e9",
+   "size": 6540
+  },
+  "overlay9/overlay_0001.bin": {
+   "magic": "x70250100",
+   "size": 45336
+  },
+  "overlay9/overlay_0002.bin": {
+   "magic": "x05500990",
+   "size": 20
+  },
+  "overlay9/overlay_0003.bin": {
+   "magic": "x70b5051c",
+   "size": 2760
+  },
+  "overlay9/overlay_0004.bin": {
+   "magic": "xf9122900",
+   "size": 11240
+  },
+  "overlay9/overlay_0005.bin": {
+   "magic": "xf0b59fb0",
+   "size": 17788
+  },
+  "overlay9/overlay_0006.bin": {
+   "magic": "xf8b5c6b0",
+   "size": 15788
+  },
+  "overlay9/overlay_0007.bin": {
+   "magic": "x70b58ab0",
+   "size": 5516
+  },
+  "overlay9/overlay_0008.bin": {
+   "magic": "x1d701df0",
+   "size": 14184
+  },
+  "overlay9/overlay_0009.bin": {
+   "magic": "xf0b59f11",
+   "size": 25260
+  },
+  "overlay9/overlay_0010.bin": {
+   "magic": "xa910f047",
+   "size": 5140
+  },
+  "overlay9/overlay_0011.bin": {
+   "magic": "xf8402de9",
+   "size": 19248
+  },
+  "overlay9/overlay_0012.bin": {
+   "magic": "xf0475d3c",
+   "size": 22916
+  },
+  "overlay9/overlay_0013.bin": {
+   "magic": "x05500550",
+   "size": 32260
+  },
+  "overlay9/overlay_0014.bin": {
+   "magic": "x10b50c1c",
+   "size": 50248
+  },
+  "overlay9/overlay_0015.bin": {
+   "magic": "xf84ff130",
+   "size": 13520
+  },
+  "overlay9/overlay_0016.bin": {
+   "magic": "xf0412de9",
+   "size": 12580
+  },
+  "overlay9/overlay_0017.bin": {
+   "magic": "x31539d0c",
+   "size": 21352
+  },
+  "overlay9/overlay_0018.bin": {
+   "magic": "xf8191150",
+   "size": 4196
+  },
+  "overlay9/overlay_0019.bin": {
+   "magic": "xf0e50eec",
+   "size": 7988
+  },
+  "file_uid.bin": {
+   "magic": "xffff190f",
+   "size": 29620
+  },
+  "mcd.dat": {
+   "magic": "$FAB",
+   "size": 47195936
+  },
+  "mcd_compact.bin": {
+   "magic": "NLCM",
+   "size": 91144
+  },
+  "mcd_path.bin": {
+   "magic": "x7a2c0000",
+   "size": 417476
+  },
+  "sound/bgm_sound_data.sdat": {
+   "magic": "SDAT",
+   "size": 2090816
+  },
+  "sound/sound_data_us.sdat": {
+   "magic": "SDAT",
+   "size": 13319168
+  }
+ }
+}

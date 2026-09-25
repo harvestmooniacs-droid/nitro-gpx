@@ -1,0 +1,537 @@
+{
+ "rom": "Magical Starsign (USA).nds",
+ "title": "MAGICALVACA2",
+ "code": "AVCE",
+ "n_files": 123,
+ "ext_stats": {
+  ".bin": {
+   "x1eff2fe1": 7,
+   "x10402de9": 2,
+   "x2c009fe5": 1,
+   "x08d04de2": 1,
+   "x04009fe5": 1,
+   "x00402de9": 1
+  },
+  ".dat": {
+   "VXDS": 56,
+   "x64000000": 9,
+   "x20030000": 6,
+   "x2c010000": 6,
+   "xc8000000": 4,
+   "CELL": 4,
+   "x42060000": 2,
+   "x00020000": 2,
+   "x60090000": 2,
+   "x01000000": 2,
+   "x00010000": 2,
+   "sar ": 1
+  },
+  ".dat [inner magics]": {
+   "NFTR": 1,
+   "SDAT": 1
+  },
+  ".sdat": {
+   "SDAT": 1
+  }
+ },
+ "files": {
+  "overlay9/overlay_0000.bin": {
+   "magic": "x1eff2fe1",
+   "size": 404544
+  },
+  "overlay9/overlay_0007.bin": {
+   "magic": "x1eff2fe1",
+   "size": 34432
+  },
+  "overlay9/overlay_0009.bin": {
+   "magic": "x2c009fe5",
+   "size": 35616
+  },
+  "overlay9/overlay_0011.bin": {
+   "magic": "x08d04de2",
+   "size": 928
+  },
+  "overlay9/overlay_0001.bin": {
+   "magic": "x1eff2fe1",
+   "size": 330432
+  },
+  "overlay9/overlay_0008.bin": {
+   "magic": "x1eff2fe1",
+   "size": 35424
+  },
+  "overlay9/overlay_0002.bin": {
+   "magic": "x10402de9",
+   "size": 873632
+  },
+  "overlay9/overlay_0003.bin": {
+   "magic": "x1eff2fe1",
+   "size": 16256
+  },
+  "overlay9/overlay_0012.bin": {
+   "magic": "x04009fe5",
+   "size": 12960
+  },
+  "overlay9/overlay_0004.bin": {
+   "magic": "x00402de9",
+   "size": 4736
+  },
+  "overlay9/overlay_0005.bin": {
+   "magic": "x1eff2fe1",
+   "size": 60736
+  },
+  "overlay9/overlay_0006.bin": {
+   "magic": "x1eff2fe1",
+   "size": 45664
+  },
+  "overlay9/overlay_0010.bin": {
+   "magic": "x10402de9",
+   "size": 9440
+  },
+  "aikyo/Archive.sar.dat": {
+   "magic": "sar ",
+   "size": 10585588
+  },
+  "hiraishi/amigo.dat": {
+   "magic": "x1a000000",
+   "size": 232368
+  },
+  "hiraishi/areaicon.dat": {
+   "magic": "x08010000",
+   "size": 161800
+  },
+  "hiraishi/areamap.dat": {
+   "magic": "x34010000",
+   "size": 861920
+  },
+  "hiraishi/cmake.dat": {
+   "magic": "x27000000",
+   "size": 161272
+  },
+  "hiraishi/demo.dat": {
+   "magic": "x7e000000",
+   "size": 591176
+  },
+  "hiraishi/evt_mes.dat": {
+   "magic": "x42060000",
+   "size": 455880
+  },
+  "hiraishi/evt_scp.dat": {
+   "magic": "x42060000",
+   "size": 2125724
+  },
+  "hiraishi/fld_path.dat": {
+   "magic": "x64000000",
+   "size": 4788
+  },
+  "hiraishi/fldeff_eff.dat": {
+   "magic": "x64000000",
+   "size": 32348
+  },
+  "hiraishi/fldeff_nce.dat": {
+   "magic": "x64000000",
+   "size": 331868
+  },
+  "hiraishi/fldeff_ncg.dat": {
+   "magic": "xc8000000",
+   "size": 244792
+  },
+  "hiraishi/fldeff_ncl.dat": {
+   "magic": "xc8000000",
+   "size": 10792
+  },
+  "hiraishi/fldeff_nmc.dat": {
+   "magic": "x64000000",
+   "size": 2456
+  },
+  "hiraishi/fldeff_nsc.dat": {
+   "magic": "x20030000",
+   "size": 3208
+  },
+  "hiraishi/fldeff_path.dat": {
+   "magic": "x64000000",
+   "size": 87068
+  },
+  "hiraishi/fldvfx_eff.dat": {
+   "magic": "x64000000",
+   "size": 5920
+  },
+  "hiraishi/fldvfx_nce.dat": {
+   "magic": "x64000000",
+   "size": 103364
+  },
+  "hiraishi/fldvfx_ncg.dat": {
+   "magic": "xc8000000",
+   "size": 254792
+  },
+  "hiraishi/fldvfx_ncl.dat": {
+   "magic": "xc8000000",
+   "size": 6568
+  },
+  "hiraishi/fldvfx_nmc.dat": {
+   "magic": "x64000000",
+   "size": 1064
+  },
+  "hiraishi/fldvfx_nsc.dat": {
+   "magic": "x20030000",
+   "size": 62600
+  },
+  "hiraishi/fldvfx_path.dat": {
+   "magic": "x64000000",
+   "size": 408
+  },
+  "hiraishi/iconFace.dat": {
+   "magic": "x00020000",
+   "size": 14568
+  },
+  "hiraishi/lobby.dat": {
+   "magic": "x11000000",
+   "size": 60044
+  },
+  "hiraishi/map.dat": {
+   "magic": "x8d000000",
+   "size": 368176
+  },
+  "hiraishi/map_amp.dat": {
+   "magic": "x60090000",
+   "size": 1104512
+  },
+  "hiraishi/map_anm.dat": {
+   "magic": "x20030000",
+   "size": 46780
+  },
+  "hiraishi/map_box.dat": {
+   "magic": "x01000000",
+   "size": 16396
+  },
+  "hiraishi/map_btlID.dat": {
+   "magic": "x20030000",
+   "size": 134588
+  },
+  "hiraishi/map_evt.dat": {
+   "magic": "x40060000",
+   "size": 58992
+  },
+  "hiraishi/map_id.dat": {
+   "magic": "x20030000",
+   "size": 559304
+  },
+  "hiraishi/map_jmp.dat": {
+   "magic": "x01000000",
+   "size": 24012
+  },
+  "hiraishi/map_ncg.dat": {
+   "magic": "xe8030000",
+   "size": 4019504
+  },
+  "hiraishi/map_ncl.dat": {
+   "magic": "xf4010000",
+   "size": 198104
+  },
+  "hiraishi/map_obj.dat": {
+   "magic": "x20030000",
+   "size": 79436
+  },
+  "hiraishi/map_shp.dat": {
+   "magic": "x60090000",
+   "size": 1806720
+  },
+  "hiraishi/menu.dat": {
+   "magic": "x7a000000",
+   "size": 372408
+  },
+  "hiraishi/mesFace.dat": {
+   "magic": "x00020000",
+   "size": 534536
+  },
+  "hiraishi/mobile.dat": {
+   "magic": "x6e000000",
+   "size": 223356
+  },
+  "hiraishi/mov000l.dat": {
+   "magic": "VXDS",
+   "size": 212540
+  },
+  "hiraishi/mov000u.dat": {
+   "magic": "VXDS",
+   "size": 104572
+  },
+  "hiraishi/mov001l.dat": {
+   "magic": "VXDS",
+   "size": 650608
+  },
+  "hiraishi/mov001u.dat": {
+   "magic": "VXDS",
+   "inner": {
+    "NFTR": 1
+   },
+   "size": 672368
+  },
+  "hiraishi/mov002l.dat": {
+   "magic": "VXDS",
+   "size": 770276
+  },
+  "hiraishi/mov002u.dat": {
+   "magic": "VXDS",
+   "size": 393952
+  },
+  "hiraishi/mov003l.dat": {
+   "magic": "VXDS",
+   "size": 405440
+  },
+  "hiraishi/mov003u.dat": {
+   "magic": "VXDS",
+   "size": 264624
+  },
+  "hiraishi/mov004l.dat": {
+   "magic": "VXDS",
+   "size": 2097900
+  },
+  "hiraishi/mov004u.dat": {
+   "magic": "VXDS",
+   "size": 1630960
+  },
+  "hiraishi/mov005l.dat": {
+   "magic": "VXDS",
+   "size": 243860
+  },
+  "hiraishi/mov005u.dat": {
+   "magic": "VXDS",
+   "size": 224944
+  },
+  "hiraishi/mov006l.dat": {
+   "magic": "VXDS",
+   "size": 1580440
+  },
+  "hiraishi/mov006u.dat": {
+   "magic": "VXDS",
+   "size": 955276
+  },
+  "hiraishi/mov007l.dat": {
+   "magic": "VXDS",
+   "size": 243040
+  },
+  "hiraishi/mov007u.dat": {
+   "magic": "VXDS",
+   "size": 122644
+  },
+  "hiraishi/mov008l.dat": {
+   "magic": "VXDS",
+   "size": 95092
+  },
+  "hiraishi/mov008u.dat": {
+   "magic": "VXDS",
+   "size": 125728
+  },
+  "hiraishi/mov009l.dat": {
+   "magic": "VXDS",
+   "size": 159976
+  },
+  "hiraishi/mov009u.dat": {
+   "magic": "VXDS",
+   "size": 72316
+  },
+  "hiraishi/mov010l.dat": {
+   "magic": "VXDS",
+   "size": 129060
+  },
+  "hiraishi/mov010u.dat": {
+   "magic": "VXDS",
+   "size": 100748
+  },
+  "hiraishi/mov011l.dat": {
+   "magic": "VXDS",
+   "size": 130588
+  },
+  "hiraishi/mov011u.dat": {
+   "magic": "VXDS",
+   "size": 123480
+  },
+  "hiraishi/mov012l.dat": {
+   "magic": "VXDS",
+   "size": 110324
+  },
+  "hiraishi/mov012u.dat": {
+   "magic": "VXDS",
+   "size": 152820
+  },
+  "hiraishi/mov013l.dat": {
+   "magic": "VXDS",
+   "size": 257736
+  },
+  "hiraishi/mov013u.dat": {
+   "magic": "VXDS",
+   "size": 203612
+  },
+  "hiraishi/mov014l.dat": {
+   "magic": "VXDS",
+   "size": 131252
+  },
+  "hiraishi/mov014u.dat": {
+   "magic": "VXDS",
+   "size": 162860
+  },
+  "hiraishi/mov015l.dat": {
+   "magic": "VXDS",
+   "size": 150436
+  },
+  "hiraishi/mov015u.dat": {
+   "magic": "VXDS",
+   "size": 187180
+  },
+  "hiraishi/mov016l.dat": {
+   "magic": "VXDS",
+   "size": 155852
+  },
+  "hiraishi/mov016u.dat": {
+   "magic": "VXDS",
+   "size": 151644
+  },
+  "hiraishi/mov017l.dat": {
+   "magic": "VXDS",
+   "size": 135920
+  },
+  "hiraishi/mov017u.dat": {
+   "magic": "VXDS",
+   "size": 207824
+  },
+  "hiraishi/mov018l.dat": {
+   "magic": "VXDS",
+   "size": 147428
+  },
+  "hiraishi/mov018u.dat": {
+   "magic": "VXDS",
+   "size": 208588
+  },
+  "hiraishi/mov019l.dat": {
+   "magic": "VXDS",
+   "size": 137488
+  },
+  "hiraishi/mov019u.dat": {
+   "magic": "VXDS",
+   "size": 197404
+  },
+  "hiraishi/mov020l.dat": {
+   "magic": "VXDS",
+   "size": 272904
+  },
+  "hiraishi/mov020u.dat": {
+   "magic": "VXDS",
+   "size": 162096
+  },
+  "hiraishi/mov021l.dat": {
+   "magic": "VXDS",
+   "size": 344620
+  },
+  "hiraishi/mov021u.dat": {
+   "magic": "VXDS",
+   "size": 190480
+  },
+  "hiraishi/mov022l.dat": {
+   "magic": "VXDS",
+   "inner": {
+    "SDAT": 1
+   },
+   "size": 1424780
+  },
+  "hiraishi/mov022u.dat": {
+   "magic": "VXDS",
+   "size": 1476724
+  },
+  "hiraishi/mov023l.dat": {
+   "magic": "VXDS",
+   "size": 697712
+  },
+  "hiraishi/mov023u.dat": {
+   "magic": "VXDS",
+   "size": 562728
+  },
+  "hiraishi/mov024l.dat": {
+   "magic": "VXDS",
+   "size": 230908
+  },
+  "hiraishi/mov024u.dat": {
+   "magic": "VXDS",
+   "size": 393280
+  },
+  "hiraishi/mov025l.dat": {
+   "magic": "VXDS",
+   "size": 1478380
+  },
+  "hiraishi/mov025u.dat": {
+   "magic": "VXDS",
+   "size": 1319896
+  },
+  "hiraishi/mov026l.dat": {
+   "magic": "VXDS",
+   "size": 758348
+  },
+  "hiraishi/mov026u.dat": {
+   "magic": "VXDS",
+   "size": 906464
+  },
+  "hiraishi/mov027l.dat": {
+   "magic": "VXDS",
+   "size": 229748
+  },
+  "hiraishi/mov027u.dat": {
+   "magic": "VXDS",
+   "size": 271176
+  },
+  "hiraishi/obj_amm1.dat": {
+   "magic": "x00010000",
+   "size": 1032
+  },
+  "hiraishi/obj_amm2.dat": {
+   "magic": "x00010000",
+   "size": 1032
+  },
+  "hiraishi/obj_anm1.dat": {
+   "magic": "x2c010000",
+   "size": 159344
+  },
+  "hiraishi/obj_anm2.dat": {
+   "magic": "x2c010000",
+   "size": 1208
+  },
+  "hiraishi/obj_ncg1.dat": {
+   "magic": "x2c010000",
+   "size": 2855096
+  },
+  "hiraishi/obj_ncg2.dat": {
+   "magic": "x2c010000",
+   "size": 1208
+  },
+  "hiraishi/obj_ncl1.dat": {
+   "magic": "x2c010000",
+   "size": 10488
+  },
+  "hiraishi/obj_ncl2.dat": {
+   "magic": "x2c010000",
+   "size": 10488
+  },
+  "hiraishi/title.dat": {
+   "magic": "x17000000",
+   "size": 164556
+  },
+  "sound/sound_data.sdat": {
+   "magic": "SDAT",
+   "size": 3216768
+  },
+  "wata/amobj2cell.dat": {
+   "magic": "CELL",
+   "size": 852
+  },
+  "wata/amobjcell.dat": {
+   "magic": "CELL",
+   "size": 1900
+  },
+  "wata/chrtestcell.dat": {
+   "magic": "CELL",
+   "size": 7576
+  },
+  "wata/takaracell.dat": {
+   "magic": "CELL",
+   "size": 612
+  }
+ }
+}
